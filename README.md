@@ -8,6 +8,7 @@ It is based on the docker offical ruby image.
 ## Additinal dev tools
 
 * godep
+* glide
 
 # How to use this image
 
@@ -20,3 +21,4 @@ FROM inwork/docker-ruby-golang:1.6.2
 View [license information](http://golang.org/LICENSE) for the golang contained in this image.
 View [license information](https://www.ruby-lang.org/en/about/license.txt) for the ruby contained in this image.
 View [license information](https://github.com/tools/godep/blob/master/License) for the godep contained in this image.
+View [license information](https://github.com/Masterminds/glide/blob/master/LICENSE) for the glide contained in this image.
