@@ -1,4 +1,7 @@
 # docker-ruby-golang
+- [`1.6.2` (Dockerfile*)](https://github.com/InWork/docker-ruby-golang/blob/a595462c12b7e5dbdcb65797c7565dd8ed69b90e/Dockerfile)
+
+[![](https://imagelayers.io/badge/inwork/docker-ruby-golang:latest.svg)](https://imagelayers.io/?images=inwork/docker-ruby-golang:latest 'Get your own badge on imagelayers.io')
 
 This docker image contains go (Golang) and ruby for build enviroment.
 It is mainly use to build your go app in a gitlab-ci enviroment.
