@@ -1,4 +1,4 @@
-FROM ruby:wheezy
+FROM ruby:2.2
 
 # gcc for cgo
 RUN apt-get update && apt-get install -y \
