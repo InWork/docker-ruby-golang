@@ -1,3 +1,7 @@
+# WARNING WILL BE REMOVED
+**This project will be removed**, please use the other one: https://github.com/InWork/docker-ruby-golang-centos
+
+
 # docker-ruby-golang
 - [`1.6.2` (Dockerfile*)](https://github.com/InWork/docker-ruby-golang/blob/a595462c12b7e5dbdcb65797c7565dd8ed69b90e/Dockerfile)
 
